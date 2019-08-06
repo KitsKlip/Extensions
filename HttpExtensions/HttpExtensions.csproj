@@ -7,7 +7,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Authors>Kitsklip</Authors>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.2</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/KitsKlip/Extensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/KitsKlip/Extensions.git</RepositoryUrl>
