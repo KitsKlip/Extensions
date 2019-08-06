@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Linq;
 using Microsoft.AspNetCore.Http;
 
-namespace HttpExtensions
+namespace Uhuru.Extensions
 {
     public static class HttpRequestExtensions
     {
